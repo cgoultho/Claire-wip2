@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-claire@goulthorpe.net
+**claire@goulthorpe.net**
 +1 857-406-4794
 https://www.linkedin.com/in/claire-goulthorpe-85223/
 
