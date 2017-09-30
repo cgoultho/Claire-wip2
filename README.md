@@ -8,22 +8,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+claire@goulthorpe.net
++1 857-406-4794
+https://www.linkedin.com/in/claire-goulthorpe-85223/
 
-- Bulleted
-- List
+example bullet list 1
+bullet list 2
+
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/claire-goulthorpe-85223/) and ![Image](https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/03e/006/02acb12.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
