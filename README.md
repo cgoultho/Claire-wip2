@@ -1,15 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cgoultho/Claire-wip2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
 
 **claire@goulthorpe.net**
 +1 857-406-4794
@@ -17,12 +5,6 @@ https://www.linkedin.com/in/claire-goulthorpe-85223/
 
 example bullet list 1
 bullet list 2
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](https://www.linkedin.com/in/claire-goulthorpe-85223/) and ![Image](https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/03e/006/02acb12.jpg)
 ```
