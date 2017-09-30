@@ -1,10 +1,10 @@
 
-**claire@goulthorpe.net**
-+1 857-406-4794
-https://www.linkedin.com/in/claire-goulthorpe-85223/
+* **claire@goulthorpe.net**
+* +1 857-406-4794
+* https://www.linkedin.com/in/claire-goulthorpe-85223/
 
-example bullet list 1
-bullet list 2
+1. example bullet list 1
+1. bullet list 2
 
 [Link](https://www.linkedin.com/in/claire-goulthorpe-85223/) and ![Image](https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/03e/006/02acb12.jpg)
 ```
